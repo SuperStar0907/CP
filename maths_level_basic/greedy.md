@@ -10,14 +10,14 @@ They are generally used in optimization problems and there exists an optimal sub
 
 Problems List:
 
-http://www.spoj.com/problems/BAISED/ 
-http://www.spoj.com/problems/BALIFE/
-http://www.spoj.com/problems/GCJ101BB/
-http://www.codechef.com/problems/FGFS
-http://www.codechef.com/problems/KNPSK
-http://www.codechef.com/problems/LEMUSIC
-http://www.spoj.com/problems/ARRANGE/
-http://www.spoj.com/problems/FASHION/
+http://www.spoj.com/problems/BAISED/  </br>
+http://www.spoj.com/problems/BALIFE/ </br>
+http://www.spoj.com/problems/GCJ101BB/ </br>
+http://www.codechef.com/problems/FGFS </br>
+http://www.codechef.com/problems/KNPSK </br>
+http://www.codechef.com/problems/LEMUSIC </br>
+http://www.spoj.com/problems/ARRANGE/ </br>
+http://www.spoj.com/problems/FASHION/ </br>
 
 Q)A thief breaks into a shop and finds there are N items weight of ith item is Wi and cost of ith item is Ci and thief has a bag of which can carry at most W units of weight. Obviously thief wants to have maximum profit . What strategy he should choose if :
 

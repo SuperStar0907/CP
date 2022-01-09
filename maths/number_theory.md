@@ -16,8 +16,8 @@ solving linear recurrence using matrix exponentiation(like fibonacci)
 
 Practice problems:
 
-http://www.spoj.com/problems/DCEPC11B
-http://www.codechef.com/MAY13/problems/FTRIP/
-http://www.spoj.com/problems/FIBOSUM/
-http://www.spoj.com/problems/POWPOW/
-http://www.spoj.com/problems/POWPOW2 [[ CRT ]]
+http://www.spoj.com/problems/DCEPC11B </br>
+http://www.codechef.com/MAY13/problems/FTRIP/ </br>
+http://www.spoj.com/problems/FIBOSUM/ </br>
+http://www.spoj.com/problems/POWPOW/ </br>
+http://www.spoj.com/problems/POWPOW2 [[ CRT ]] </br>

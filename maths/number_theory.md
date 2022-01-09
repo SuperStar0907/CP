@@ -20,4 +20,4 @@ http://www.spoj.com/problems/DCEPC11B </br>
 http://www.codechef.com/MAY13/problems/FTRIP/ </br>
 http://www.spoj.com/problems/FIBOSUM/ </br>
 http://www.spoj.com/problems/POWPOW/ </br>
-http://www.spoj.com/problems/POWPOW2 [[ CRT ]] </br>
+http://www.spoj.com/problems/POWPOW2  </br>

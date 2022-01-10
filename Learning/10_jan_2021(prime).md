@@ -93,29 +93,3 @@ bracket name is it’s snippet name in vscode
           return ans;
         }
 
-5.  Prime factors of n in a way of pairs (get-prime-factors)—>
-
-        std::vector<std::pair<int, int>> get_prime_factors(int n)
-        {
-          std::vector<std::pair<int, int>> ans;
-          for(int i = 2; i * i <= n; i++)
-          {
-            if(n % i == 0)
-            {
-              int cnt = 0;
-              while(n % i == 0)
-              {
-                n /= i;
-                cnt++;
-              }
-              ans.push_back({i, cnt});
-            }
-          }
-          if(n != 1)
-          {
-            ans.push_back({n, 1});
-          }
-          return ans;
-        }
-
-

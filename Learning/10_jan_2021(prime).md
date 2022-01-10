@@ -1,6 +1,6 @@
-> prime Numbers in cp (bracket name is it’s snippet name in vscode)
+--> prime Numbers in cp (bracket name is it’s snippet name in vscode)
 
-1. number of co-primes before n (coprime)—>
+> 1. number of co-primes before n (coprime)—>
 
         ll coprime(ll n)
         {
@@ -27,7 +27,7 @@
 
 
 
-2.  Euler's totient function for counting number of integers <=n which are coprime to n (totient)—>
+> 2.  Euler's totient function for counting number of integers <=n which are coprime to n (totient)—>
 
         long long phi(long long n)
         {
@@ -45,7 +45,7 @@
         }
 
 
-3.  Simple but smart code to find primes till n (get-primes-upto)—>
+> 3.  Simple but smart code to find primes till n (get-primes-upto)—>
 
         vector<int> get_primes_upto(int n)
         {
@@ -66,7 +66,7 @@
         }
 
 
-4.  Prime factors of n in a way of pairs (get-prime-factors)—>
+> 4.  Prime factors of n in a way of pairs (get-prime-factors)—>
 
         std::vector<std::pair<int, int>> get_prime_factors(int n)
         {

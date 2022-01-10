@@ -1,6 +1,4 @@
-#prime Numbers in cp 
-
-bracket name is it’s snippet name in vscode
+> prime Numbers in cp (bracket name is it’s snippet name in vscode)
 
 1. number of co-primes before n (coprime)—>
 
